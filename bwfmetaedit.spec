@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Osadzanie, sprawdzanie i eksport metadanych z plików BWF
 Name:		bwfmetaedit
 Version:	1.3.6
 Release:	1
-License:	CC0 1.0 (Public Domain)
+License:	Public Domain (bwfmetaedit), BSD (embedded libraries)
 Group:		Applications/Multimedia
 Source0:	https://mediaarea.net/download/source/bwfmetaedit/%{version}/%{name}_%{version}.tar.xz
 # Source0-md5:	95f60d6488e9be608aa7e683a70afe90
